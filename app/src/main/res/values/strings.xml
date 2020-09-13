@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FlowerOrdersApp</string>
+    <string name="order_id">Order #%d</string>
+    <string name="deliver_to">Deliver to \n %s</string>
+    <string name="from">From \n%s</string>
+    <string name="price">TOTAL: %d RON</string>
+    <string name="total_orders">Total Orders</string>
+    <string name="you_don_t_have_any_orders_in_your_history">You don\'t have any orders in your history</string>
+    <string name="error">ERROR</string>
+    <string name="ok">OK</string>
 </resources>

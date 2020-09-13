@@ -1,4 +1,4 @@
-package com.vdr.flowerordersapp
+package com.vrares.flowerorders
 
 import org.junit.Test
 
